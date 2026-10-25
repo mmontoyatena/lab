@@ -6,5 +6,10 @@
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "repo": "mmontoyatena/lab",
   "mainRulesetId": 25829419,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://warehousedev1879.crm.dynamics.com/",
+  "devProfile": "dev",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
