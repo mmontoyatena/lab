@@ -2,5 +2,6 @@
   "randomIdentifier": 1879,
   "slnxName": "WarehouseManagement",
   "publisherName": "TALXISLab",
-  "publisherPrefix": "lab"
+  "publisherPrefix": "lab",
+  "tenantId": "957a313a-971b-4add-b513-038b581bc3e7"
 }
