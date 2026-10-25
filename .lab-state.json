@@ -7,9 +7,10 @@
   "repo": "mmontoyatena/lab",
   "mainRulesetId": 25829419,
   "mainRulesetName": "lab-main-protection",
-  "devEnvUrl": "https://warehousedev1879.crm.dynamics.com/",
+  "devEnvUrl": "https://wm-dev-1879.crm.dynamics.com/",
+  "devEnvId": "60ab293a-04f1-ed9c-a3e8-23a364c71e1a",
+  "devOrgId": "55bf35af-9bd0-f111-be87-000d3a5cb43c",
   "devProfile": "dev",
-  "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "testEnvUrl": "https://ppcc26-dev-120.crm.dynamics.com/",
+  "testProfile": "test"
 }
