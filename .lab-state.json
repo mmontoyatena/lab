@@ -12,5 +12,6 @@
   "devOrgId": "55bf35af-9bd0-f111-be87-000d3a5cb43c",
   "devProfile": "dev",
   "testEnvUrl": "https://ppcc26-dev-120.crm.dynamics.com/",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appId": "c2b77076-e940-46f6-ae60-b4217d9aab7d"
 }
